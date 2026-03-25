@@ -44,16 +44,14 @@ extraction, model training, and deployment.
 
 ------------------------------------------------------------------------
 
-## 📸 Screenshots
-
 ### 🔹 App Interface
-![UI](screenshots/ui.png)
+![UI](./project_screenshot/home_screen.png)
 
 ### 🔹 Prediction Result
-![Result](screenshots/result.png)
+![Result](./project_screenshot/prediction_1.png)
 
 ### 🔹 Another Example
-![Example](screenshots/example.png)
+![Example](./project_screenshot/prediction_2.png)
 
 ------------------------------------------------------------------------
 

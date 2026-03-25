@@ -76,7 +76,7 @@ streamlit run app.py
 
 ## 🔗 Connect With Me
 
--   GitHub: https://github.com/Pritam9952\
+-   GitHub: https://github.com/Pritam9952
 -   LinkedIn: https://www.linkedin.com/in/pritam-nagar/
 
 ------------------------------------------------------------------------

@@ -44,6 +44,19 @@ extraction, model training, and deployment.
 
 ------------------------------------------------------------------------
 
+## 📸 Screenshots
+
+### 🔹 App Interface
+![UI](screenshots/ui.png)
+
+### 🔹 Prediction Result
+![Result](screenshots/result.png)
+
+### 🔹 Another Example
+![Example](screenshots/example.png)
+
+------------------------------------------------------------------------
+
 ## 🛠 Tech Stack
 
 Python, OpenCV, NumPy, Pandas, Scikit-learn, Streamlit
